@@ -9,7 +9,7 @@
 |_____________________________________________________________________|
 ```
 
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello! I'm Arnob Das Ucchwas
 
 ## 🚀 Aspiring Software Engineer | 💡 Tech Enthusiast | 🌱 Lifelong Learner
 
@@ -66,9 +66,9 @@ I'm actively seeking internship opportunities! Let's connect and create somethin
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](Your-LinkedIn-URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](Your-GitHub-URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arnob-das-ucchwas-89ab4328b/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](ucchwasa@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/aucchwas)
 
 ---
 
