@@ -73,11 +73,11 @@ I'm actively seeking internship opportunities! Let's connect and create somethin
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aucchwas&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="Your GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aucchwas&theme=radical" alt="Your GitHub Streak" />
 </p>
 
 ```ascii
