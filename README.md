@@ -13,8 +13,6 @@ _____________________________________________________________________
 
 ## 🚀 Aspiring Software Engineer | 💡 Tech Enthusiast | 🌱 Lifelong Learner
 
-I'm passionate about building robust, scalable applications and always eager to learn new technologies. Currently on the lookout for exciting internship opportunities!
-
 ## 🛠 Tech Stack
 
 ### Languages
