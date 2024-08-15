@@ -59,9 +59,6 @@ _____________________________________________________________________
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat-square)
 
 ## 🏆 Projects
-[... Rest of your README content ...]
-
-## 🏆 Projects
 
 ### 💼 Personal Portfolio
 **Technologies:** TSX, React.js, Next.js, HTML, Tailwind CSS
