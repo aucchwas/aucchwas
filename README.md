@@ -59,26 +59,6 @@ _____________________________________________________________________
 ![Test Automation](https://img.shields.io/badge/-Test%20Automation-4479A1?style=flat-square)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=flat-square)
 
-## 🏆 Projects
-
-### 💼 Personal Portfolio
-**Technologies:** TSX, React.js, Next.js, HTML, Tailwind CSS
-
-- 🌟 Developed a dynamic, responsive personal portfolio website
-- 🔧 Utilized TypeScript for type-safe, maintainable code
-- 🎨 Applied Tailwind CSS for rapid, customizable UI development
-- 🏛 Incorporated DDD concepts for a robust architecture
-
-### 🏫 School System Replica
-**Technologies:** C#, ASP.NET MVC, Razor, LINQ, SSMS
-
-- 📚 Implemented a comprehensive course management system
-- ⚡ Improved database communication efficiency by 10%
-- 🔒 Utilized Singleton design pattern for data integrity
-- 💽 Leveraged SSMS and LINQ for dynamic data management
-- 🖥 Created an intuitive MVC-based user interface
-- 🧠 Applied advanced programming techniques and design patterns
-
 ## 🎯 Future Goals
 
 - 🦀 Become proficient in Rust
